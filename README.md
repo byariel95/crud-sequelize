@@ -4,6 +4,7 @@ execute the index file
 
 # commands:
 node . --create:yourEntity --attribute=value 
+node . -- read:yourEntity
 
 # example:
 
