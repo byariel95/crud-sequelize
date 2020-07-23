@@ -1,0 +1,16 @@
+{
+  "development": {
+    "username": "root",
+    "password": "byariel1995",
+    "database": "node-dev",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "byariel1995",
+    "database": "node-prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
