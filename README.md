@@ -2,11 +2,12 @@
 
 execute the index file
 
-# commands:
+## commands:
 node . --create:yourEntity --attribute=value 
+
 node . -- read:yourEntity
 
-# example:
+## example:
 
 node . --create:Contact --firstname=Ariel --lastname=Monterroso --phone=000000 
 
