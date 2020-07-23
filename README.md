@@ -1,9 +1,12 @@
 # crud-sequelize
 
 execute the index file
-commands:
+
+# commands:
 node . --create:yourEntity --attribute=value 
-example: 
+
+# example:
+
 node . --create:Contact --firstname=Ariel --lastname=Monterroso --phone=000000 
 
 
